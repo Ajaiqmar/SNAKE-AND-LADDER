@@ -1,4 +1,4 @@
-# SNAKE_AND_LADDER
+# SNAKE AND LADDER
 
 Snake and Ladder game simulation using python.
 
