@@ -1,8 +1,10 @@
-# SNAKE AND LADDER SIMULATOR
+<img src="IMG/banner.png" />
 
-Snake and Ladder game simulation using python.
+<h2> 🎲 SNAKE AND LADDER </h2>
+Basically, The <a href="https://github.com/Ajaiqmar/SNAKE-AND-LADDER-SIMULATOR">Snake and Ladder</a> 🎲 is a Python Script which is built to simulate the snake and ladder game. The purpose is to learn about the sense of randomness that we need to have to build a game. 
 
-![Screenshot (119)](https://user-images.githubusercontent.com/54910043/116826960-5e54a280-abb4-11eb-8dec-9e818372a3a3.png)
-![Screenshot (120)](https://user-images.githubusercontent.com/54910043/116827033-b2f81d80-abb4-11eb-9d40-761da05f3fa9.png)
+<h2> 📱TECHNOLOGY STACK </h2>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Python-%20-blue" /></a>
+
 
 
